@@ -1,0 +1,21 @@
+Opdracht
+Bouw in PHP een ‘Boter kaas en eieren’ spel voor twee spelers. Voor het spel kan beginnen moet iedere speler zijn of haar naam invoeren.
+Spelers mogen om de beurt hun symbool plaatsen (een O of een X). Welke speler als eerste drie van zijn/haar symbolen op een rij weet te krijgen, heeft gewonnen. Beide spelers verliezen wanneer het bord vol is, zonder dat er drie symbolen op een rij liggen.
+Aan het einde van een potje worden de spelernamen en de plaatsing van de symbolen op het bord opgeslagen in een database, zodat later terug kan worden gekeken welke potjes er gespeeld zijn en wie er heeft gewonnen.
+Dit dient te gebeuren in de vorm van een Wordpress plugin. Het spel moet getoond kunnen worden op een Wordpress pagina.
+Daarnaast moet via het administratiepaneel zichtbaar zijn welke wedstrijden gespeeld zijn en wie de winnaar was. Ook moet het kleurenschema van het bord (randen, symbolen en achtergrond) aanpasbaar zijn.
+
+
+Minimale vereisten samengevat
+De code moet object georiënteerd opgezet zijn.
+Er kunnen twee spelers meedoen.
+Het spel kan worden getoond op een Wordpresspagina.
+Van iedere gespeelde match worden de namen van de spelers in een database opgeslagen.
+Van iedere gespeelde match is het eindresultaat terug te zien in het administratiepaneel van Wordpress.
+Via het administratiepaneel van Wordpress zijn de kleuren van het bord aan te passen.
+
+
+Over de opdracht
+Het doel van deze opdracht is om een beeld te vormen van je PHP- en programmeerkennis. We verwachten derhalve zelf geschreven code.
+
+
